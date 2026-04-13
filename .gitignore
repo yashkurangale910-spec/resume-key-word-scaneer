@@ -1,0 +1,41 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+/index.html
+/styles.css
+/app.js
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/resources/archetype-resources/pom.xml
+!**/src/test/resources/archetype-resources/pom.xml
+
+### VS Code ###
+.vscode/
+
+### Others ###
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+.DS_Store
